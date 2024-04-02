@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-02T08:03:54.626Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="0IcZ2_duMOn4qcVBzdmg" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-02T08:04:29.650Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="rd4VTiHVa3HLLIUL4PMD" version="24.2.1" type="github">
   <diagram name="Page-1" id="58cdce13-f638-feb5-8d6f-7d28b1aa9fa0">
     <mxGraphModel dx="1377" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -42,8 +42,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="av3OSLEWApw4BITMHY0_-6" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;GTIN updates&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;jumpStyle=arc;" edge="1" parent="1" source="av3OSLEWApw4BITMHY0_-7" target="av3OSLEWApw4BITMHY0_-18">
-          <mxGeometry x="-0.6615" relative="1" as="geometry">
+        <mxCell id="av3OSLEWApw4BITMHY0_-6" value="&lt;div style=&quot;text-align: left;&quot;&gt;Product Updates&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;jumpStyle=arc;" edge="1" parent="1" source="av3OSLEWApw4BITMHY0_-7" target="av3OSLEWApw4BITMHY0_-18">
+          <mxGeometry x="-0.6308" y="-10" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="430" y="140" />
               <mxPoint x="180" y="140" />
